@@ -1,3 +1,3 @@
-# This is is not Chatgpt
+# This is, not Chatgpt
 
 ### description!!!
